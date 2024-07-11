@@ -1,0 +1,9 @@
+how to import SimplePy
+
+just download the simple.py file and paste it into your
+project folder it must be the same folder that you are
+writing your python code in then in your main file write
+
+import simple
+
+then you can use all the SimplePy addons
